@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there
 
-I'm Johan, 35 years old and have over 15 years of (professional) web development and DevOps experience.
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Grezvany13&theme=dark&show_icons=true">](https://metrics.lecoq.io/Grezvany13?template=classic)
+- Name: Johan de Jong 👋
+- Nationality: Dutch 🇳🇱
+- Age: 35 🧓
+- Experience: 15 years (professionally), 20 years (hobby) 👷
+- Job Description: Senior Full Stack Web Software Engineer :trollface:
+- Current Job: [Jacht.digital Marketing](https://jacht.digital)
 
 #### Skillz & Toolz
 ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=PHP&labelColor=333333&logoColor=white&logoWidth=20&style=for-the-badge)
