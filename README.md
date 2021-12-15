@@ -1,12 +1,26 @@
 ### Hi there
 
-[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Grezvany13&theme=dark&show_icons=true">](https://metrics.lecoq.io/Grezvany13?template=classic)
-- Name: Johan de Jong 👋
-- Nationality: Dutch 🇳🇱
-- Age: 35 🧓
-- Experience: 15 years (professionally), 20 years (hobby) 👷
-- Job Description: Senior Full Stack Web Software Engineer :trollface:
-- Current Job: [Jacht.digital Marketing](https://jacht.digital)
+<table style="border-collapse: collapse; border: none;">
+<tr>
+<td rowspan="2" valign="top">
+  <p><strong>Name:</strong> Johan de Jong 👋</p>
+  <p><strong>Nationality:</strong> Dutch 🇳🇱</p>
+  <p><strong>Age:</strong> 35 🧓</p>
+  <p><strong>Experience:</strong> 15 years (professionally), 20 years (hobby) 👷</p>
+  <p><strong>Job Description:</strong> Senior Full Stack Web Software Engineer :trollface:</p>
+  <p><strong>Current Job:</strong> [Jacht.digital Marketing](https://jacht.digital)</p>
+  </td>
+<td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Grezvany13&count_private=true&show_icons=true&theme=slateorange&include_all_commits=true" />
+  </td>
+  </tr>
+<tr>
+<td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grezvany13&count_private=true&show_icons=true&theme=slateorange&include_all_commits=true" />
+  </td>
+</tr>
+</table>
+
 
 #### Skillz & Toolz
 ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=PHP&labelColor=333333&logoColor=white&logoWidth=20&style=for-the-badge)
