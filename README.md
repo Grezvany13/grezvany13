@@ -9,7 +9,7 @@
   <p><strong>Experience:</strong> 15+ years (professionally), 20+ years (hobby) 👷</p>
   <p><strong>Job Description:</strong> Senior Full Stack Web Software Engineer :trollface:</p>
   <p><strong>Current Employer:</strong> <a href="https://jacht.digital">Jacht.digital Marketing</a></p>
-  <p><strong>Personal website:</strong> <a href="https://johandejong.dev/">johandejong.dev</a></p>
+  <p><strong>Personal website:</strong> <a href="https://johandejong.dev/?source=github">johandejong.dev</a></p>
   </td>
 <td>
     <img src="https://github-readme-stats.vercel.app/api?username=Grezvany13&count_private=true&show_icons=true&theme=slateorange&include_all_commits=true" />
