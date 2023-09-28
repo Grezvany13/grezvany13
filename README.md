@@ -5,10 +5,10 @@
 <td rowspan="2" valign="top">
   <p><strong>Name:</strong> Johan de Jong 👋</p>
   <p><strong>Nationality:</strong> Dutch 🇳🇱</p>
-  <p><strong>Age:</strong> 36 🧓</p>
+  <p><strong>Age:</strong> 37 🧓</p>
   <p><strong>Experience:</strong> 15+ years (professionally), 20+ years (hobby) 👷</p>
   <p><strong>Job Description:</strong> Senior Full Stack Web Software Engineer :trollface:</p>
-  <p><strong>Current Employer:</strong> <a href="https://jacht.digital">Jacht.digital Marketing</a></p>
+  <p><strong>Current Employer:</strong> <a href="https://abovomedia.nl">Abovo Maxlead</a> | <a href="https://ammedia.tech/">AMMedia.tech</a></p>
   <p><strong>Personal website:</strong> <a href="https://johandejong.dev/?source=github">johandejong.dev</a></p>
   </td>
 <td>
